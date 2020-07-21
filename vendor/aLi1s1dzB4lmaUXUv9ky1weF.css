@@ -1,0 +1,11 @@
+@font-face {
+font-weight: 900;
+font-style: normal;
+    font-family: 'Praxis Com Semibold';
+    src: url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.eot');
+    src: url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.eot') format('embedded-opentype'),
+         url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.woff2') format('woff2'),
+         url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.woff') format('woff'),
+         url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.ttf') format('truetype'),
+         url('../vendor/aLi1s1dzB4lmaUXUv9ky1weF-900.svg#016f2b63df111c088f4d4a12a7f3eca9') format('svg');
+}

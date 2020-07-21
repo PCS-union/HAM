@@ -1,0 +1,11 @@
+@font-face {
+font-weight: 400;
+font-style: normal;
+    font-family: 'Praxis Com';
+    src: url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.eot');
+    src: url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.eot') format('embedded-opentype'),
+         url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.woff2') format('woff2'),
+         url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.woff') format('woff'),
+         url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.ttf') format('truetype'),
+         url('../vendor/bQhEe4CzzyuSoeqIsd2DnAeF-400.svg#18d68dbe5be5df34027e728a54e7542b') format('svg');
+}
